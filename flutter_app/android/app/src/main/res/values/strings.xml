@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Leuke</string>
+    <!-- Replace "000000000000" with your Facebook App ID here. -->
+    <string name="facebook_app_id">2719197104976827</string>
+    <!--
+      Replace "000000000000" with your Facebook App ID here.
+      **NOTE**: The scheme needs to start with `fb` and then your ID.
+    -->
+    <string name="fb_login_protocol_scheme">fb2719197104976827</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"https://api.leukevideo.com/.well-known/assetlinks.json\" }]</string>
+</resources>

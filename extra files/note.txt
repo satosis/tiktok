@@ -1,0 +1,4 @@
+Replace this file in your .pub-cache video_trimmer folder folder which is present in your flutter SDK folder In our windows PC its in C:\flutter\.pub-cache\hosted\pub.dartlang.org\video_trimmer-0.2.7\lib folder. In mac or linux desktops you have to replace same file in the respective sdk folder and find for .pub-cache\hosted\pub.dartlang.org\video_trimmer-0.2.7\lib folder.
+
+Important:
+Make sure you show hidden files in Mac and linux as folders and files starting with . are hidden in these operating systems.

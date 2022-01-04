@@ -1,0 +1,133 @@
+{
+  "project_info": {
+    "project_number": "1020512047352",
+    "firebase_url": "https://leukeapp.firebaseio.com",
+    "project_id": "leukeapp",
+    "storage_bucket": "leukeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020512047352:android:53620825a0cfec6ccceb0d",
+        "android_client_info": {
+          "package_name": "com.leuke.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020512047352-k66rup5l40or581naoqmjt1dhfoduiu0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leuke.app",
+            "certificate_hash": "dbd4af0dddb508df6aa98eeaa3531bf39eb3f1b0"
+          }
+        },
+        {
+          "client_id": "1020512047352-vo6db8m8h82n0d851sjhrvojp6jcu40b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leuke.app",
+            "certificate_hash": "f3ca387de95e849db8cf0118e20c5a76f2f44bbb"
+          }
+        },
+        {
+          "client_id": "1020512047352-pc2m6ujb0dsgnjg5ufvs3tj6d2s08ij6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leuke.app",
+            "certificate_hash": "5d7c7a77c2ad1f661b1b96ed53e500caf02e3630"
+          }
+        },
+        {
+          "client_id": "1020512047352-juv9tt2ckoncnp6s7qkni9us4b19gqup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leuke.app",
+            "certificate_hash": "e3655f2ac595afd415519a29dba82387f4bf961f"
+          }
+        },
+        {
+          "client_id": "1020512047352-8vuadkugfvloc0qkvrb1189gi2scvela.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIBYBgfrRUbkIRS-MkekcVIPo_9Q62f2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020512047352-8vuadkugfvloc0qkvrb1189gi2scvela.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020512047352:android:5caac3c3c8738fd9cceb0d",
+        "android_client_info": {
+          "package_name": "com.leukevideo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020512047352-34md5j5j1tmq9et61vvsrpalf0tgo1pa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leukevideo.app",
+            "certificate_hash": "dbd4af0dddb508df6aa98eeaa3531bf39eb3f1b0"
+          }
+        },
+        {
+          "client_id": "1020512047352-4kfnicjr2p279181n54vseb177rh6f1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leukevideo.app",
+            "certificate_hash": "f3ca387de95e849db8cf0118e20c5a76f2f44bbb"
+          }
+        },
+        {
+          "client_id": "1020512047352-dboefpd6rgntfm5ik3llgid82ukqdhds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leukevideo.app",
+            "certificate_hash": "5d7c7a77c2ad1f661b1b96ed53e500caf02e3630"
+          }
+        },
+        {
+          "client_id": "1020512047352-fm4og3dh60kcv5jnmc8u1583qfc01i5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leukevideo.app",
+            "certificate_hash": "e3655f2ac595afd415519a29dba82387f4bf961f"
+          }
+        },
+        {
+          "client_id": "1020512047352-8vuadkugfvloc0qkvrb1189gi2scvela.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIBYBgfrRUbkIRS-MkekcVIPo_9Q62f2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020512047352-8vuadkugfvloc0qkvrb1189gi2scvela.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

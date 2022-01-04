@@ -1,0 +1,234 @@
+.active_user{
+	background:green;
+	color:#fff;
+	padding:5px 10px;
+}
+.active_user:hover{
+	color: #fff;
+	background: #06ab06;
+}
+.active_user:focus{
+	color: #fff;
+}
+.inactive{
+	background:red;
+	color:#fff;
+	padding:5px 10px;
+}
+.inactive:hover{
+	color: #fff;
+	background: #f92d2d;
+}
+.inactive:focus{
+	color: #fff;
+}
+.top_link div{
+	float: left;
+}
+.top_link{
+	background: #4680ff;
+	padding:10px;
+	color: #fff;
+}
+.top_link a{
+	color: #fff;
+}
+.title_link{
+	margin-bottom:20px;
+}
+.nav-pills .nav-item{
+	text-align: center;
+}
+.nav-pills .nav-link.active, .nav-pills .nav-link.active:focus, .nav-pills .nav-link.active:hover, .nav-pills .nav-link.active, .nav-pills .nav-link.active:focus, .nav-pills .nav-link.active:hover, .nav-pills .nav-link.active.active, .nav-pills .nav-link.active.active:focus, .nav-pills .nav-link.active.active:hover{
+	background: #0275d8;
+	color: #fff;
+}
+.btn-success {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+}
+.md-tabs .nav-link.active{
+	background: #448aff;
+	color:#fff;
+}
+.title_heading{
+	text-align: center;
+	font-weight: 600;
+	margin-top: 3px;
+	margin-bottom: 20px;
+	font-size: 18px;
+}
+.load_more{
+	background: #4680ff;
+    color: white;
+    padding: 6px 12px;
+	text-align: center;
+	margin: auto;
+	cursor: pointer;
+	box-shadow: 0 0 0 1px #79aaf5;
+}
+.load_more .spinner{
+	display: none;
+}
+.pcoded .pcoded-navbar .pcoded-item .pcoded-hasmenu .pcoded-submenu li.active{
+	padding-left: 10px;
+	
+}
+.pcoded .pcoded-navbar .pcoded-item .pcoded-hasmenu .pcoded-submenu li.active .pcoded-mtext{
+	font-weight: 600;
+}
+.align-center{
+	text-align: center;
+}
+.ppbt span {
+        position: relative !important;
+} 
+.margin-tp-bt-10{
+	margin:10px 0;
+}
+.h_check{
+	text-align: center;
+}
+.align-center{
+	text-align: center !important;
+} 
+#data_table td:first-child a {
+	margin: 0 10px !important;
+} 
+#data_table_filter input{
+	height:38px !important;
+}
+#data_table_length select{
+	height:38px !important;
+}
+div.dataTables_wrapper div.dataTables_paginate{
+	clear: both !important;
+	margin: 3px 0 6px 0 !important;
+}
+
+.align-right{text-align: right}
+.orders h5{
+	background: #4680ff;
+	color:#fff;
+	padding:10px;
+}
+.order_div{
+	margin: 0px;
+}
+.order_div div{
+	padding:5px 20px;
+	margin:0px;
+}
+.main_order{
+	box-shadow: 0 1px 1px 1px lightgrey;
+}
+.invoice-table {
+    border-left: 1px solid #fff;
+    padding-left: 20px;
+}
+.invoive-info h6 {
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #757575;
+}
+.invoice-total {
+    background: #f3f3f3;
+    padding: 30px 0;
+}
+.invoice-total tbody {
+    padding-right: 20px;
+    float: right;
+}
+.invoice-box .table td, .invoice-box .table th, .invoive-info .table td, .invoive-info .table th {
+    padding: 3px 0 !important;
+}
+.invoice-order th:first-child {
+    padding-left: 0;
+    width: 80px;
+}
+.invoice-order {
+    padding-left: 0;
+}
+.invoice-contact {
+  
+    display: flex;
+    margin-bottom: 30px;
+    padding-top: 30px;
+    -webkit-box-align: center;
+     align-items: center;
+}
+.invoice-detail-table td{
+	padding:10px 18px !important;
+}
+.total-card .label{
+	font-size:68px !important;
+}
+.light_blue{
+	color:#8fb9ff;
+}
+.light_pink{
+	color:#ff9797;
+}
+.light_green{
+	color:#c4e0a3;
+}
+.light_yellow{
+	color:#ffd69a;
+}
+.img-40 {
+	height:40px;
+}
+.md-tabs .nav-item{
+    border-left: 1px solid #dee2e6;
+}
+.select2-selection__choice, .select2-selection__choice__remove{
+    color:#fff !important;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice{
+	background-color: #448aff !important;
+	padding: 3px 5px !important;
+}
+.pics .inner_pics{
+	padding:10px;
+	height: 300px;
+}
+.photo_div{
+	height: 100%;
+    background: #ccc;
+    padding: 0px;
+}
+.photo_div img{
+	max-height: 100%;
+    max-width: 100%;
+    margin: auto;
+    display: table;
+}
+.photo_div a{
+	height: 100%;
+    width: 100%;
+    margin: auto;
+    display: grid;
+}
+.inner_video{
+	padding:10px;
+	height: 300px;
+}
+.video_div{
+	height: 100%;
+	background: #ccc;
+	text-align: center;
+	margin: auto;
+    padding: 0px;
+}
+.video_div img{
+	max-height: 100%;
+	max-width: 100%;
+}
+.actionss .fa{
+	color:#000;
+}
+.logo{
+	max-width: 50%;
+}

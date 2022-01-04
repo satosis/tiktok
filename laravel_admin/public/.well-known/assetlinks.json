@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.leukevideo.app",
+    "sha256_cert_fingerprints":
+    ["04:82:CF:35:79:7B:78:25:22:24:10:A4:34:5B:EE:4F:99:32:0B:E9:54:64:D9:D4:8C:7F:6C:C5:17:FB:F7:06"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://api.leukevideo.com"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.leukevideo.app",
+    "sha256_cert_fingerprints":
+    ["04:82:CF:35:79:7B:78:25:22:24:10:A4:34:5B:EE:4F:99:32:0B:E9:54:64:D9:D4:8C:7F:6C:C5:17:FB:F7:06"]
+  }
+}]
